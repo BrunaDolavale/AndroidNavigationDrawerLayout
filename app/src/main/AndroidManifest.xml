@@ -10,8 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".Home"
-            android:label="@string/app_name"
+            android:name=".ExperienciaProfissional"
+            android:label="Assessment Bruna Dolavale"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,10 +28,6 @@
             android:label="@string/title_activity_formacao"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".ExperienciaProfissional"
-            android:label="@string/title_activity_experiencia_profissional"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
             android:name=".Cursos"
             android:label="@string/title_activity_cursos"
             android:theme="@style/AppTheme.NoActionBar" />
@@ -40,5 +36,4 @@
             android:label="@string/title_activity_publicacoes"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
-
 </manifest>
