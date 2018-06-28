@@ -60,7 +60,7 @@
                 android:paddingLeft="20dp"
                 android:elevation="2dp"
                 android:paddingBottom="10dp"
-                android:text="19 anos" />
+                android:text="Curso de programação .NET C# - Caelum" />
 
             <TextView
                 android:layout_width="fill_parent"
@@ -82,7 +82,62 @@
                 android:paddingLeft="20dp"
                 android:elevation="2dp"
                 android:paddingBottom="10dp"
-                android:text="Curso de Banco de Dados MySql - Alura" />
+                android:text="Introdução à SAP - Udemy" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="#fff"
+                android:clickable="true"
+                android:paddingLeft="20dp"
+                android:elevation="2dp"
+                android:paddingBottom="10dp"
+                android:text="Curso de lógica de programação – SOS Computadores" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="#fff"
+                android:clickable="true"
+                android:paddingLeft="20dp"
+                android:elevation="2dp"
+                android:paddingBottom="10dp"
+                android:text="Curso de Photoshop – SOS Computadores" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="#fff"
+                android:clickable="true"
+                android:paddingLeft="20dp"
+                android:elevation="2dp"
+                android:paddingBottom="10dp"
+                android:text="Curso de Corel Draw – SOS Computadores" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="#fff"
+                android:clickable="true"
+                android:paddingLeft="20dp"
+                android:elevation="2dp"
+                android:paddingBottom="10dp"
+                android:text="Curso de Língua Inglesa" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="#fff"
+                android:clickable="true"
+                android:paddingLeft="20dp"
+                android:elevation="2dp"
+                android:paddingBottom="10dp"
+                android:text="Curso de Língua Espanhola" />
 
         </LinearLayout>
     </RelativeLayout>
